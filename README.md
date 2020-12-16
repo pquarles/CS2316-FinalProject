@@ -1,10 +1,13 @@
 # CS2316-FinalProject
-Here is where I have the code hosted for my CS 2316 Final Project - Feel free to browse! Below will be a small summary of the project (more details may be added later). 
+Below will be a small summary of the final project my partner Robert & I had to completed for a CS class at Georgia Tech. Feel free to navigate the repository and look at what we found. Of course, DO NOT reuse any of this code for personal use (such as for a project at your school). 
 
-## Project Title
-__Analyzing Relationships Between Educational Spending and Student Performance__
+There are separate folders containing code we used to gather/clean/export our data (including reasoning behind selecting sources and links to those sources) & code we used for analysis of the data (including images of our insights and visualizations). 
 
-*Prepared for - CS 2316 (Data Input/Manipulation for Science and Industry) at Georgia Tech*
+## Analyzing Relationships Between Educational Spending and Student Performance
+
+**About this Project:**
+* _Prepared by - P. Quarles & R. Weimar (insert GitHub username if he has one)_
+* _Prepared for - CS 2316 (Data Input/Manipulation for Science and Industry) at Georgia Tech_
 
 **Point of Interest / Purpose:** 
   * We were interested in discovering any correlations between how money is allocated within states' school departments and resulting educational outcomes.
