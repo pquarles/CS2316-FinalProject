@@ -10,7 +10,7 @@ There are separate folders containing code we used to gather/clean/export our da
 * _Prepared for - CS 2316 (Data Input/Manipulation for Science and Industry) at Georgia Tech_
 
 **Point of Interest / Purpose:** 
-  * We were interested in discovering any correlations between how money is allocated within states' school departments and resulting educational outcomes.
+  * We were interested in discovering any correlations between how money is allocated within states' school departments for public primary-secondary schools and resulting educational outcomes.
   * Purpose - We hoped to be able to determine whether or not policymakers can expect an increase in student educational outcomes by increasing state school funding, and which   income/expense metrics for school systems are most closely related to student performance.
   * To measure educational outcomes, we will analyze each state’s high school graduation rates and average 8th grade Reading and Mathematics scores from the National Assessment of Educational Progress, a standardized test taken by a representative sample of students in the United States.
     
