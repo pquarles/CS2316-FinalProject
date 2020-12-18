@@ -63,6 +63,42 @@ __Data Analysis:__
 * PLEASE SEE <a href= https://github.com/pquarles/CS2316-FinalProject/blob/main/Code%20for%20Data%20Analysis/SUMMARY%20-%20READ%20FIRST.md#data-analysis-section>"SUMMARY - READ FIRST.md"</a> 
 * The "Code for Data Analysis" folder contains python functions we wrote to discover insights and create visualizations with our data.  
 
+### Insights: 
+
+__Insight 1 - Correlations__
+
+<img src = "proj_pics/Insight 1.png" >
+
+__Insight 2 - High Spending States__
+
+<img src = "proj_pics/Insight 2.png" >
+
+__Insight 3 - NAEP Scores Linear Models__
+
+<img src = "proj_pics/Insight 3.png" >
+
+__Insight 4 - Graduation Rates Linear Model__
+
+<img src = "proj_pics/Insight 4.png" >
+
+__Insight 5 - Five Number Summary__
+
+<img src = "proj_pics/Insight 5.png" >
+
+### Visualizations 
+
+__Visualization 1 - NAEP Scores vs. Predictor Variables__
+
+<img src = "proj_pics/Visualization 1.png" > 
+
+__Visualization 2 - Current Spending/Student by State__
+
+<img src = "proj_pics/Visualization 2.png" > 
+
+__Visualization 3 - Avg NAEP Scores vs. % of Current Spending on Instruction__
+
+<img src = "proj_pics/Visualization 3.png" > 
+
 __Conclusions:__
 * Overall, several metrics of per student educational spending were positively correlated with standardized test scores, and to a lesser extent, higher high school graduation rates.
 * Performing multiple regression with all predictors of NAEP Math scores, NAEP Reading scores, and high school graduation rates yielded r-squared values of 0.4471, 0.5468, and 0.4487, respectively, which suggests that a significant amount of the variation in test scores and graduation rates could be explained by our predictor variables.
