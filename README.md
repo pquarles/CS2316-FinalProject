@@ -6,7 +6,7 @@ There are separate folders containing code we used to gather/clean/export our da
 ## Analyzing Relationships Between Educational Spending and Student Performance
 
 **About this Project:**
-* _Prepared by - P. Quarles & R. Weimar 
+* _Prepared by - P. Quarles & R. Weimar_ 
 * _Prepared for - CS 2316 (Data Input/Manipulation for Science and Industry) at Georgia Tech_
 
 **Point of Interest / Purpose:** 
