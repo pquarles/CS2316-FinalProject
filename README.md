@@ -6,7 +6,7 @@ There are separate folders containing code we used to gather/clean/export our da
 ## Analyzing Relationships Between Educational Spending and Student Performance
 
 **About this Project:**
-* _Prepared by - P. Quarles & R. Weimar (insert GitHub username if he has one)_
+* _Prepared by - P. Quarles & R. Weimar 
 * _Prepared for - CS 2316 (Data Input/Manipulation for Science and Industry) at Georgia Tech_
 
 **Point of Interest / Purpose:** 
@@ -60,7 +60,8 @@ _Additional Web Collection_
 * The data will need to be cleaned slightly by first removing the commas in the numbers, and then converting into integers. We will then place the data in a dataframe with a single column and state names as indices.
 
 __Data Analysis:__
-* PLEASE SEE <a href= https://github.com/pquarles/CS2316-FinalProject/blob/main/Code%20for%20Data%20Analysis/SUMMARY%20-%20READ%20FIRST.md#data-analysis-section>"SUMMARY - READ FIRST.md"</a> within the "Code for Data Analysis" folder. 
+* PLEASE SEE <a href= https://github.com/pquarles/CS2316-FinalProject/blob/main/Code%20for%20Data%20Analysis/SUMMARY%20-%20READ%20FIRST.md#data-analysis-section>"SUMMARY - READ FIRST.md"</a> 
+* The "Code for Data Analysis" folder contains python functions we wrote to discover insights and create visualizations with our data.  
 
 __Conclusions:__
 * Overall, several metrics of per student educational spending were positively correlated with standardized test scores, and to a lesser extent, higher high school graduation rates.
